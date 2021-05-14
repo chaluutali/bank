@@ -1,0 +1,1 @@
+insert into account values(UUID(),'0987654321','Chaluutali','1234',0.9);

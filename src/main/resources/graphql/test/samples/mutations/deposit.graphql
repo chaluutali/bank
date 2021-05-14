@@ -1,0 +1,3 @@
+mutation{
+    deposit(amount: 507)
+}

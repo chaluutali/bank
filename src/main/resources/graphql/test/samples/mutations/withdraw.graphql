@@ -1,0 +1,3 @@
+mutation{
+    withdraw(amount: 0.2)
+}

@@ -1,0 +1,9 @@
+query{
+    getAccount(accountNumber: "0987654321"){
+        accountID
+        accountNumber
+        password
+        accountHolderName
+        accountBalance
+    }
+}
